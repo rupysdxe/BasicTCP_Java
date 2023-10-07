@@ -55,9 +55,4 @@ Errors and exceptions are logged using the standard Java logging framework. Spec
 
 - Java Standard Library
 
-## Future Improvements
-
-1. Allow dynamic configuration of server settings, such as port number and thread pool size.
-2. Implement more advanced HTTP request handling, possibly integrating a lightweight HTTP server library.
-3. Add security features like SSL/TLS support.
 
